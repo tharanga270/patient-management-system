@@ -1,0 +1,11 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+@icon-font-path: "../google_fonts/";
+
+@icon-font-name: "Lato-Hairline";
+@icon-font-name: "Lato-Light";
+@icon-font-name: "Lato-LightItalic";
+@icon-font-name: "Lato-Regular";

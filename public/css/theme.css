@@ -1,0 +1,134 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 23, 2014, 12:30:04 PM
+    Author     : Chatura
+*/
+
+/*********************************************************/
+/*Reusabal Components                                    */
+/*********************************************************/
+h1, h2, h3, h4, h5, h6{
+	margin:0px;
+	padding: 0px;
+	background-color: #fff;
+	/*font-family:'Lato','Arial',sans-serif !important;*/
+	text-rendering:optimizeLegibility !important;
+	font-size: 20px !important;
+}
+/* textbox */
+.form-control {
+  border-radius: 0 !important;
+}
+.btn-success{
+	cursor:pointer !important;
+}
+[type="submit"].btn {
+  border-radius: 0 !important;
+}
+section{
+	background-color: #F1F2F1 !important;
+}
+/*********************************************************/
+/*Login Form Components                                  */
+/*********************************************************/
+h1.system_name{
+    margin-bottom: 5px;
+    font-size: 200% !important;
+    font-weight: 305 !important;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+}
+h2.footer_text{
+	text-align: center !important;
+}
+.footer_text{
+	font-size: 90% !important;
+	font-weight: 303 !important;
+	word-spacing: 2px;
+	letter-spacing: 1px;
+}
+.cmn_logo{
+	height: 50px !important;
+	width: auto;
+	margin-bottom: 0px;
+}
+.login_container{
+	border: 1px solid #bbb;
+	padding: 30px;
+}
+.footer_text{
+	margin-top: 30px;
+}
+/*********************************************************/
+/*Dashboard Components                                   */
+/*********************************************************/
+.h1_welcome,.h2_management{
+	background-color: #F1F2F1;
+}
+h1.h1_welcome{
+	font-size: 200% !important;
+	font-weight: 310 !important;
+	word-spacing: 3px;  
+}
+h2.h2_management{
+	margin-top: 0px;
+	margin-bottom: 15px;
+	font-size: 150% !important;
+	color: #4f8cef;
+}
+.btn_logout{
+	margin-top: 20px !important;
+	background-image: none !important;
+	float:right;
+}
+.gly_logout{
+	color: #e3301e;
+}
+.cmn_textbox{
+	width:65% !important;
+}
+.search_box_container{
+	margin-top: 20px !important;
+}
+.table_patient{
+	margin-top: 20px;
+}
+.glyp_under{
+	
+}
+.glyp_under:hover{
+	text-decoration: none !important;
+}
+/*********************************************************/
+/*Edit Components                                   */
+/*********************************************************/
+.glyphicon-pencil::before {
+	padding-right: 5px;
+}
+.btn{
+	border-radius: 0 !important;
+}
+.edit_text{
+	font-family:'Lato','Arial',sans-serif !important;
+	font-weight: 303 !important;
+	color: black;
+}
+
+
+/************test*****************/
+.form_search-test{
+	margin-top: 10px;
+}
+.txt_serach_test{
+	width: 380px !important;
+}
+
+
+
+
+
+
